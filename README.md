@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on any frontend Proect
 - 📫 How to reach me 09016829766
+- A data analyst, proficient in excel, sql, python and power bi
 
 <!---
 afojos/afojos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
